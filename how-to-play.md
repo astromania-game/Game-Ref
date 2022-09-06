@@ -1,5 +1,5 @@
 # How to Play Astromania: The Astronomy Card Game
-![image](./images/logo.png)
+![image](./Images/logo.png)
 ## About This Project
 We wanted to make some trading cards to highlight contributions of queer astronomers. But if you already have a deck of fancy cards, why not make a whole game out of it? Astromania is the card game equivalent of real life astronomy research. With its assortment of object cards and tool cards, Astromania lets you strategize and combine techniques to solve the mysteries of the universe - just like a real astrophysicist! Our team is composed of graduate students who are all working towards a PhD in astronomy and are actively involved in ongoing astronomy research.
 
@@ -35,7 +35,7 @@ We include trackers to keep track of a player’s earned victory points (VP). Th
 ### Evolution Trackers
 We include 24 trackers to keep track of the evolution progress of the objects on the Starboard.
 
-![image](./images/trackers.png)
+![image](./Images/trackers.png)
 
 ## Setup
 Optional: Remove the interact cards from the draw deck for solo play.
@@ -46,11 +46,11 @@ Optional: Remove the interact cards from the draw deck for solo play.
 
 ## Game Layout
 An example game can be seen below. All players must be able to see the current prompt, every card on the Starboard, and any cards played on all players' fields.
-![image](./images/board_ex.png)
+![image](./Images/board_ex.png)
 
 ### Decks
 In this game, there are three types of cards, each separated into their own decks. The decks can be distinguished by the color of the card backs. The Draw Deck (red) are the cards that players will draw from to add cards to their hands. The Sky Deck (blue) are where object cards for the Starboard are drawn from. The Prompt Deck (purple) holds all the potential prompts for the game. Each round, a new prompt is drawn from the deck and players must attempt to answer the prompt by accruing enough VP.
-![image](./images/decks.png)
+![image](./Images/decks.png)
 
 ## Gameplay
 ### Turn Actions
