@@ -42,7 +42,7 @@ Optional: Remove the interact cards from the draw deck for solo play.
 1. Shuffle the Draw deck (Players hands consist of Tool and Astronomer Cards) and sky deck.
 2. Each player draws 5 cards from the draw deck as their starting hand.
 3. Place 8 object cards from the sky deck on the Starboard.
-4. Roll the 20 sided die to determine who goes first. Turn order proceeds counter-clockwise from the first player.
+4. Roll the dice to determine who goes first. Turn order proceeds counter-clockwise from the first player.
 
 ## Game Layout
 An example game can be seen below. All players must be able to see the current prompt, every card on the Starboard, and any cards played on all players' fields.
@@ -60,7 +60,7 @@ On their turn, a player can take up to 3 of any of the following actions:
 3. Use an Astronomer card and a Tool card in your field to attempt to study an object on the Starboard
 4. Perform an action listed on a card in your field
 5. Use an Interact action card from your hand
-6. Discard a card in your hand or field and gain +1VP
+6. Discard a card in your hand or field and gain 1 VP
 
 ### Studying an Object
 Choose one object on the Starboard to study. Select one Astronomer and one Tool (both in your field) to study the object with. Roll the dice and sum the resulting values to determine the science power for that analysis. Remember to apply any relevant bonuses!
