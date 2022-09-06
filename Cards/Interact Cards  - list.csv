@@ -1,0 +1,16 @@
+Name,Type,Non-game description 
+Cowork,Collaborate,You found a collaborator!
+First Authorship,Sabotage,You are the first author of the paper. 
+Conference,Act,You are presenting at a conference and building a network!
+Scoop,Sabotage,You've scooped someone elses research! (How dare you!)
+Reviewer 2,Act,Your draft received some harsh reviews. Change some things around
+Deadline,Collaborate,A deadline is fast approaching!
+Sabbatical,Sabotage,You are getting so much work done but your collaborators can't reach you. 
+Burnout,Collaborate,You need a break from your daily routine. Maybe hanging out with some new friends will help
+Accepted proposal ,Act,You just got more resources to do your work! 
+Seminar,Collaborate,You are attending a talk and learning what other astronomers are doing.
+Journal Club,Collaborate,You are presenting a paper at the weekly journal club. You are acquiring new tricks you can use in your own work.
+Outreach Event,Collaborate,The local outreach initiative needs volunteers for a public science event.
+Grad School,Sabotage,You are doing a lot of grunt work that goes unacknowledged. It's like you are in grad school.
+Malfunction,Collaborate,A tool you are using is experiencing some technical difficulties
+Ugly Code,Collaborate,"You are working with someone else's messy, uncommented code"

@@ -1,0 +1,36 @@
+Name,Class
+Hubble,Telescope
+JWST,Telescope
+MESA,Software
+COSMIC,Software
+CHIME,Telescope
+Dragonfly,Telescope
+Planck,Telescope
+TESS,Telescope
+FIRE Simulation,Prerun Simulation
+Illustris Simulation,Prerun Simulation
+ExoPlaSim,Software
+"Athena or Pluto or FLASH, etc",Software
+Juno,Telescope
+Astropy,Code Package
+Galpy,Code Package
+ASKAP,Telescope
+ACT,Telescope
+MMT,Telescope
+Las Campanas ,Telescope
+Vera Rubin Observatory,Telescope
+SDSS,Telescope
+LIGO Collaboration,Telescope
+EHT,Telescope
+Chandra,Telescope
+eRosita,Instrument
+SWIFT,Telescope
+IceCube,Telescope
+SNO+,Telescope
+SuperBIT,Telescope
+Gaia,Telescope
+ALMA,Telescope
+GBT,Telescope
+Sofia,Telescope
+DECam,Instrument
+ARO or Parkes,Telescope

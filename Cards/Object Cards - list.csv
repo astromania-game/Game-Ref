@@ -1,0 +1,61 @@
+Name,Class,Rarity
+Asteroid,Debris,Common
+Comet,Debris,Common
+Dust,Debris,Common
+Dust,Debris,Common
+Dust,Debris,Common
+Dust,Debris,Common
+Dust,Debris,Common
+CMB,ISM,Common
+Spiral Galaxy,Galaxy,Common
+Elliptical Galaxy,Galaxy,Common
+Irregular Galaxy,Galaxy,Common
+Quasar,Galaxy,Common
+Star Forming Region,ISM,Common
+Electron,Particle,Common
+Cosmic Rays,Particle,Common
+Cosmic Rays,Particle,Common
+Cosmic Rays,Particle,Common
+Cosmic Rays,Particle,Common
+Photon,Particle,Common
+Photon,Particle,Common
+Super Earth,Planet,Common
+Protoplanet,Planet,Common
+White Dwarf,Star,Common
+High Mass Main Sequence,Star,Common
+Low Mass Main Sequence,Star,Common
+Red Giant,Star,Common
+AGB,Star,Common
+Open Cluster,Star Cluster,Common
+Globular Cluster,Star Cluster,Common
+Dwarf Galaxy,Galaxy,Uncommon
+Ultra Diffuse Galaxy,Galaxy,Uncommon
+Protoplanetary Disk,ISM,Uncommon
+Dark Energy,ISM,Uncommon
+Neutrino,Particle,Uncommon
+Hot Jupiter,Planet,Uncommon
+Mini Neptune,Planet,Uncommon
+Red Supergiant,Star,Uncommon
+Neutron Star,Star,Uncommon
+Brown Dwarf,Star,Uncommon
+Stellar Mass Black Hole,Star,Uncommon
+Cepheid Variable,Star,Uncommon
+Algol Binary,Binary Star,Uncommon
+Core Collapse Supernova,Transient,Uncommon
+Cataclysmic Variables,Binary Star,Uncommon
+Superpuff,Planet,Rare
+Thorne-Zytkow Objects,Star,Legendary
+Super Massive BH,Star,Rare
+Pulsar,Star,Rare
+Pop II Star,Star,Common
+Luminous Blue Variable,Star,Rare
+FRB,Transient,Rare
+GRB,Transient,Rare
+TDE,Transient,Rare
+Rogue Planet,Planet,Rare
+Super AGB,Star,Rare
+Wormhole,ISM,Legendary
+Inflaton,Particle,Legendary
+WIMPs,Particle,Legendary
+Axions,Particle,Legendary
+Neutron Star Binary,Binary Star,Rare

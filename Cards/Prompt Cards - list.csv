@@ -1,0 +1,41 @@
+Number #,Prompt ,Difficulty Level,Class
+1,How do stars create light?,Easy,Stars
+2,What are stars made of?,Easy,Stars
+3,What types of galaxies exist?,Easy,Galaxies
+4,What exists at the centre of every galaxy?,Easy,Galaxies
+5,Why do stars fuse nuclei?,Easy,Stars
+6,Can planets create light?,Easy,Planets
+7,Are shooting stars really stars?,Easy,Solar System Objects
+8,What are meteor showers?,Easy,Solar System Objects
+9,How old is the Universe?,Easy,Cosmology
+10,Why do we always see the same side of the Moon?,Easy,Solar System Objects
+11,What is the large scale structure of the Universe?,Medium,Galaxies/Cosmology
+12,How do stars evolve?,Medium,Stars
+13,How big are stars?,Medium,Stars
+14,What is the chemical make up of the Universe?,Medium,Cosmology/Stars/ISM
+15,How did our Moon form?,Medium,Solar System Objects
+16,How do we know that the Universe is expanding?,Medium,Cosmology/Galaxies
+17,Where does the material to make stars come from?,Medium,Stars/ISM
+18,How can we observe planets around stars other than the Sun?,Medium,Planets
+19,How did the asteroid belt come to be?,Medium,Solar System Objects
+20,What causes a planet's magnetic field?,Medium,Planets
+21,What do other planetary systems look like?,Hard,Planets
+22,When was the Epoch of Reionization?,Hard,Cosmology
+23,What role does dark matter play in galaxy formation?,Hard,Galaxies/Cosmology
+24,Where do neutrinos come from?,Hard,Particle
+25,What are WIMPs?,Hard,Particle
+26,What powers AGN jets?,Hard,Galaxies/ISM
+27,When exactly did inflation happen?,Hard,Particle/Cosmology
+28,What caused the solar neutrino problem? ,Hard,Particles
+29,How can we observe black holes?,Hard,Stars
+30,How big is the Solar System?,Hard,Solar System Objects
+31,What is the nature of dark matter?,Extreme,Galaxies/Particle/ISM
+32,What is dark energy?,Extreme,Galaxies/Cosmolgy
+33,What is the physics behind stellar winds?,Extreme,Stars
+34,Are neutrinos their own antiparticle?,Extreme,Particle
+35,Is dark matter MACHO or a WIMP?,Extreme,Particle/Planets
+36,How are supermassive black holes formed?,Extreme,Cosmology/Galaxies/Stars
+37,How will the universe end?,Extreme,Cosmology/Galaxies/Particle
+38,How do Hot Jupiters get so close to their host stars?,Extreme,Planets
+39,Is there life on other planets?,Extreme,Planets
+40,How old is the oldest star?,Extreme,Stars/Cosmology
