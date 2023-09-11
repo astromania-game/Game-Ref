@@ -1,0 +1,16 @@
+Name,Image,Logo,HasLogo,Class,showWave,Wave,showTech1,Tech1,showTech2,Tech2,showTech3,Tech3
+MESA,mesa_hrd.jpg,mesa-logo.png,TRUE,theorist_code.png,FALSE,X.png,TRUE,evolution.png,TRUE,mhd.png,TRUE,spectroscopy.png
+COSMIC,cosmic_cee.jpg,cosmic-log.png,TRUE,theorist_code.png,FALSE,X.png,TRUE,evolution.png,TRUE,popstudy.png,TRUE,mhd.png
+CHIME,chime.png,chime-logo.png,TRUE,telescope_observer.png,TRUE,longwavelength_icon.png,TRUE,allskymap.png,TRUE,photometry.png,FALSE,X.png
+Dragonfly,dragonfly.jpeg,dragonfly-logo.jpeg,TRUE,telescope_observer.png,TRUE,optical_icon.png,TRUE,photometry.png,TRUE,spectroscopy.png,FALSE,X.png
+ExoPlaSim,exoplasim.png,X,FALSE,theorist_code.png,FALSE,X.png,TRUE,mhd.png,TRUE,popstudy.png,TRUE,spectroscopy.png
+ACT,act.jpeg,X,FALSE,telescope_observer.png,TRUE,longwavelength_icon.png,TRUE,photometry.png,TRUE,polarimetry.png,FALSE,X.png
+Las Campanas Observatory,las_campanas.jpg,X,FALSE,telescope_observer.png,TRUE,optical_icon.png,TRUE,photometry.png,TRUE,astrometry.png,FALSE,X.png
+Vera C. Rubin Observatory,vera_rubin.jpeg,vera_rubin-logo.png,TRUE,telescope_observer.png,TRUE,optical_icon.png,TRUE,photometry.png,TRUE,allskymap.png,FALSE,X.png
+SDSS,sdss.jpg,sdss-logo.png,TRUE,telescope_observer.png,TRUE,optical_icon.png,TRUE,spectroscopy.png,TRUE,allskymap.png,FALSE,X.png
+LIGO Collaboration,ligo.png,X,FALSE,telescope_observer.png,TRUE,multimessenger_icon.png,TRUE,allskymap.png,TRUE,astrometry.png,FALSE,X.png
+eRosita,eRosita.jpg,X,FALSE,instrument_instrumentation.png,TRUE,highenergy_icon.png,TRUE,darkenergystudy.png,TRUE,photometry.png,FALSE,X.png
+SNO+,sno+.jpeg,sno+-logo.jpeg,TRUE,telescope_observer.png,TRUE,multimessenger_icon.png,TRUE,photometry.png,TRUE,evolution.png,FALSE,X.png
+BOOMERanG,Boomerang.jpeg,X,FALSE,telescope_observer.png,TRUE,longwavelength_icon.png,TRUE,allskymap.png,TRUE,astrometry.png,FALSE,X.png
+DECam,decam.jpg,X,FALSE,instrument_instrumentation.png,TRUE,optical_icon.png,TRUE,darkenergystudy.png,TRUE,photometry.png,FALSE,X.png
+ARO,ARO.jpeg,X,FALSE,telescope_observer.png,TRUE,longwavelength_icon.png,TRUE,scintillometry.png,TRUE,polarimetry.png,FALSE,X.png

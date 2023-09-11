@@ -1,0 +1,19 @@
+Name,Image,Class,Subfield,showWave,Wave,showTech1,Tech1,showTech2,Tech2,showTech3,Tech3
+Len Singh,LenSingh.jpg,instrument_instrumentation.png,Cosmology,TRUE,optical_icon.png,TRUE,darkenergystudy.png,TRUE,allskymap.png,FALSE,X.png
+Roe Tai Shen,RoeTaiShen.jpg,telescope_observer.png,Star,TRUE,longwavelength_icon.png,TRUE,evolution.png,TRUE,scintillometry.png,FALSE,X.png
+Garima Ray,GarimaRay.jpg,telescope_observer.png,Transient,TRUE,highenergy_icon.png,TRUE,photometry.png,TRUE,allskymap.png,FALSE,X.png
+Stella Windsor,StellaWindsor.jpg,telescope_observer.png,Star,TRUE,optical_icon.png,TRUE,spectroscopy.png,TRUE,evolution.png,FALSE,X.png
+Ash Turnomer,AshTurnomer.jpg,telescope_observer.png,ISM,TRUE,longwavelength_icon.png,TRUE,polarimetry.png,TRUE,allskymap.png,FALSE,X.png
+Neo Trinos,NeoTrinos.jpg,telescope_observer.png,Transient,TRUE,multimessenger_icon.png,TRUE,astrometry.png,TRUE,spectroscopy.png,FALSE,X.png
+Ray Diaz,RayDiaz.jpg,telescope_observer.png,Star,TRUE,highenergy_icon.png,TRUE,spectroscopy.png,TRUE,photometry.png,FALSE,X.png
+Shola Erklips,SholaErklips.jpg,telescope_observer.png,Star,TRUE,optical_icon.png,TRUE,photometry.png,TRUE,astrometry.png,FALSE,X.png
+Dirk Mattel,DirkMattel.jpg,telescope_observer.png,Cosmology,TRUE,longwavelength_icon.png,TRUE,polarimetry.png,TRUE,astrometry.png,FALSE,X.png
+Brad Spool,BradSpool.jpg,telescope_observer.png,Star,TRUE,multimessenger_icon.png,TRUE,evolution.png,TRUE,astrometry.png,FALSE,X.png
+Oswald 'Oz' Cilator,OzCilator.jpg,telescope_observer.png,Transient,TRUE,longwavelength_icon.png,TRUE,astrometry.png,TRUE,photometry.png,FALSE,X.png
+Matteo Wright,MatteoWright.jpg,telescope_observer.png,ISM,TRUE,optical_icon.png,TRUE,scintillometry.png,TRUE,spectroscopy.png,FALSE,X.png
+Astrid Beldt,AstridBeldt.jpg,telescope_observer.png,ISM,TRUE,optical_icon.png,TRUE,allskymap.png,TRUE,photometry.png,FALSE,X.png
+Yew Auftee,YewAuftee.jpg,instrument_instrumentation.png,Transient,TRUE,highenergy_icon.png,TRUE,photometry.png,TRUE,spectroscopy.png,FALSE,X.png
+Gal Acksees,GalAcksees.jpg,theorist_code.png,Galaxy,FALSE,X.png,TRUE,popstudy.png,TRUE,allskymap.png,TRUE,spectroscopy.png
+Moe Sean,MoeSean.jpg,theorist_code.png,Star,FALSE,X.png,TRUE,evolution.png,TRUE,mhd.png,TRUE,spectroscopy.png
+Luna Erklips,LunaErklips.jpg,theorist_code.png,Planet,FALSE,X.png,TRUE,popstudy.png,TRUE,mhd.png,TRUE,photometry.png
+Theo Raman,TheoRaman.jpg,theorist_code.png,Galaxy,FALSE,X.png,TRUE,evolution.png,TRUE,mhd.png,TRUE,photometry.png
