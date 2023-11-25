@@ -32,3 +32,4 @@
 | Astrometry   | ![image](./Images/icons/astrometry.png)      |
 | Evolution   | ![image](./Images/icons/evolution.png)      |
 | MHD | ![image](./Images/icons/mhd.png)      |
+| Polarimetry | ![image](./Images/icons/polarimetry.png)      |
