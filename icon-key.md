@@ -1,8 +1,8 @@
-| Astronomer/Tool Class  | Icon |
-| ----------- | ----------- |
-| Observer/Telescope    | ![image](./Images/icons/telescope_observer.png)    |
-| Instrumentalist/Instrument   | ![image](./Images/icons/instrument_instrumentation.png)     |
-| Theorist/Simulation  |  ![image](./Images/icons/theorist_code.png) |
+| Astronomer/Tool Class  | Icon | Description |
+| ----------- | ----------- | ----------- |
+| Observer/Telescope    | ![image](./Images/icons/telescope_observer.png)    | Icon for Observer class Astronomers and Telescope class tools |
+| Instrumentalist/Instrument   | ![image](./Images/icons/instrument_instrumentation.png)     | Icon for Instrumentation class Astronomers and Instrument class tools |
+| Theorist/Simulation  |  ![image](./Images/icons/theorist_code.png) | Icon for Theorist class Astronomers and Code/Simulation/Software Instrument class tools |
 
 | Object/Prompt Class  | Icon |
 | ----------- | ----------- |
